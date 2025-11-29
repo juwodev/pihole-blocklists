@@ -1,3 +1,4 @@
 hbbtv-spotoverlay-video.redbutton.de
 prod-program.redbutton.de
+redbutton-adproxy-lb-prod.redbutton.de
 adex.redbutton.de
