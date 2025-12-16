@@ -2,3 +2,10 @@ hbbtv-spotoverlay-video.redbutton.de
 prod-program.redbutton.de
 redbutton-adproxy-lb-prod.redbutton.de
 adex.redbutton.de
+
+# experimentell
+de.rdx2.lgtvsdp.com
+eic.nudge.lgtvcommon.com
+
+# HbbTV
+#ws.hbbtv-app.de
