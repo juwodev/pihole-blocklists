@@ -2,3 +2,18 @@ partnerprogramm.otto.de
 temuaffiliateprogram.pxf.io
 www.artikel.enpal.de
 cf.abe2c2f23-frontier.amazon.de
+
+# cloudfront
+videos-cloudfront-usp.jwpsrv.com
+d2tsqtep9kts9c.cloudfront.net
+d6c0g28iech2o.cloudfront.net
+
+# akamai
+e8383.dsce6.akamaiedge.net
+a374.dscr.akamai.net
+a1446.dscr.akamai.net
+
+# other
+chmedia-cdn.relevant-digital.com
+cdn.jwplayer.com
+
